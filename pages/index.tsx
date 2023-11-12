@@ -16,7 +16,7 @@ export default function Home() {
           Welcome Chapter to CI/CD!
         </h1>
         <h2>
-          hihi
+          haha
         </h2>
 
         <p className={styles.description}>
