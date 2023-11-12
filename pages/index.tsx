@@ -15,6 +15,9 @@ export default function Home() {
         <h1 className={styles.title}>
           Welcome Chapter to CI/CD!
         </h1>
+        <h2>
+          haha
+        </h2>
 
         <p className={styles.description}>
           Get started by editing <code>pages/index.js</code>
